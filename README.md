@@ -1,7 +1,5 @@
 # ☕ [Monday Coffee Expansion: SQL Data Analysis Project](https://github.com/NishaSoni-Analyst/coffee-Analysis-sql-Project/blob/main/MondayCoffeeAnalysisdocumentpdf.pdf)
 
-
-
 ## 📌 Objective
 This project analyzes sales, customer, and market data from various cities to guide **Monday Coffee** in identifying the top locations for new store expansion. All analyses were performed using **PostgreSQL** in **pgAdmin**.
 
